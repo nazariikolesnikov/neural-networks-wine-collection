@@ -1,4 +1,4 @@
-# Neural Networks (Wine Collection)
+# Neural Networks Training (Wine Collection)
 
 ## 🤖 Technologies
 
@@ -11,3 +11,9 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📊 Visualizations
+
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Linear%20Regression%20Model%2C%20y%20%3D%208.5x%20-%203.5%20%2B%20N%20(0%2C%200.5).png" />
+
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
