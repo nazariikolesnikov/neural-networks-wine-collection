@@ -14,6 +14,6 @@
 
 ## 📊 Visualizations
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Linear%20Regression%20Model%2C%20y%20%3D%208.5x%20-%203.5%20%2B%20N%20(0%2C%200.5).png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/neural-networks-wine-collection/blob/main/Classification%20of%20Wines%20(Alcohol%20vs%20Flavanoids).png" />
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/logistic-and-linear-regression-with-tensorflow/blob/main/Logistic%20Regression%20Model.png" />
